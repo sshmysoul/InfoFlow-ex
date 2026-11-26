@@ -80,9 +80,13 @@ python3 examples/python/place_order.py
 
 ## Official Links
 
-- **Platform**: https://infoflow.finance
-- **Leveraged Prediction Markets**: https://infoflow.finance/en/trade/leverage
+- **Platform (English)**: https://infoflow.finance/en
+- **InfoFlow 预测市场（中文官网）**: https://infoflow.finance/zh
+- **Leveraged Prediction Markets (1–10×)**: https://infoflow.finance/en/trade/leverage
+- **InfoFlow 杠杆预测市场（中文）**: https://infoflow.finance/zh/trade/leverage
+- **5-Minute Crypto Up/Down**: https://infoflow.finance/en/up-down/btc/5m
 - **AI Agent & API Docs**: https://infoflow.finance/en/docs/api
+- **Developer Portal**: https://sshmysoul.github.io/InfoFlow-ex/
 - **X (Twitter)**: https://x.com/InfoFlow_ex
 - **Telegram Community**: https://t.me/InfoFlow_ex
 - **Discord Community**: https://discord.gg/hK6JQWXVMx
